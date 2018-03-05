@@ -2,7 +2,7 @@
   "name": "riot-plus-webpack",
   "version": "1.0.0",
   "description": "Starter setup for a riotjs project with webpack",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --inline --watch --hot --colors -d --port 3000"
   },
